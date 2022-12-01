@@ -16,7 +16,7 @@
  margin: 2px;
  padding: 10px;
  border: 4px double coral;
- background-color: lightgreen;
+ background-color: cyan;
  }
  a:active {
  color: green;
@@ -34,7 +34,7 @@
  </style>
  </head>
  <body>
- <h3>Website Development Softwares</h3>
+ <h3>Ολοκληρωμένα Περιβάλλοντα Ανάπτυξης Ιστοτόπων</h3>
  <ul><li>Ανοιχτού Κώδικα
  <ol>
  <li><a href="https://wordpress.com/el/" target="_blank">
