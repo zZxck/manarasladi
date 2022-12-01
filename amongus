@@ -23,10 +23,10 @@
  }
  ol li:hover {
  outline-style: dotted;
- outline-color: orange;
+ outline-color: red;
  }
  a:hover {
- background-color: yellow;
+ background-color: orange;
  }
  a:visited {
  color: gray;
@@ -34,8 +34,8 @@
  </style>
  </head>
  <body>
- <h3>Ολοκληρωμένα Περιβάλλοντα Ανάπτυξης Ιστοτόπων</h3>
- <ul><li>Ανοιχτού Κώδικα
+ <h3>Website Development Softwares</h3>
+ <ul><li>Open Source
  <ol>
  <li><a href="https://wordpress.com/el/" target="_blank">
  WordPress</a></li>
@@ -43,7 +43,7 @@
  Sublime Text</a></li>
  </ol>
  </li>
- <li>Εμπορικά
+ <li>Paid
  <ol>
  <li><a href="https://www.wix.com/" target="_blank">
  Wix</a></li>
